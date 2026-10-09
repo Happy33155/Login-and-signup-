@@ -21,7 +21,7 @@ export default function NavbarDemo() {
     },
     {
       name: "Pricing",
-      link: "/dummy",
+      link: "/dummycontent",
     },
     {
       name: "Contact",
