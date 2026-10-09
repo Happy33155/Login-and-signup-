@@ -1,7 +1,8 @@
 import { Route, Routes } from "react-router-dom";
-import Auth from "./pages/Auth";
+
 import Navbar from "./components/resizable-navbar-demo";
 import Dummy from "./components/ui/DummyContent";
+import Auth from "./pages/Auth";
 
 
 const App = () => {
